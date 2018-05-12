@@ -1,4 +1,8 @@
 _repo: Die-Soldaten_6832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lenz, Jakob Michael Reinhold
@@ -13,6 +17,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
     - http://en.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6832#Die-Soldaten
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
